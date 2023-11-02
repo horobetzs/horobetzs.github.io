@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://horobetzs.github.io/sitemap.xml

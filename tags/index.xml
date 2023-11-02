@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Flo&#39;s Blog</title>
+    <link>https://horobetzs.github.io/tags/</link>
+    <description>Recent content in Tags on Flo&#39;s Blog</description>
+    <image>
+      <title>Flo&#39;s Blog</title>
+      <url>https://horobetzs.github.io/papermod-cover.png</url>
+      <link>https://horobetzs.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://horobetzs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>beginner, anfänger</title>
+      <link>https://horobetzs.github.io/tags/beginner-anf%C3%A4nger/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://horobetzs.github.io/tags/beginner-anf%C3%A4nger/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
