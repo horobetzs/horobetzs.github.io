@@ -1,0 +1,88 @@
+---
+author: "Florian"
+title: "Die drei Schnarchnasen (001) - Die drei ??? und der Superpapagei (001)"
+date: "2023-11-9"
+description: "Die erste Folgenbewertung zum Einschlafen"
+tags: ["???", "Superpapagei", "einschlafen"]
+ShowToc: false
+ShowBreadCrumbs: false
+---
+
+---
+
+## Idee und Einleitung
+
+TL;DR: Hier geht es direkt zur [Bewertung](#bewertung).
+
+Wie genau ich auf die Idee kam, habe ich in meinem ersten Post bereits erklärt. Jetzt fehlte mir nur noch die Idee, wie ich das Ganze aufziehe. Nach etwas Überlegen, bin ich auf die Idee gekommen, mir eine kleine Matrix zu bauen. In dieser Matrix werde ich die Häufigkeit und Intensität von lauten Stellen bzw. Abschnitten bewerten. Außerdem werde ich Faktoren wie zu leise Stellen, wo man dann nichts mehr versteht, mit einbeziehen. Weiterhin kommt hinzu, die Bewertung von Spannung und die Wahl der Musik.
+
+Die **Musik**, also die Einspieler zwischen den Szenen, werde ich danach bewerten, wie laut sie im Vergleich zum restlichen Hörspiel sind und ob die Musik einen aus dem Hörfluss reißt oder perfekt eingesetzt wurde.
+
+Die Bewertung der **Spannung** ist noch subjektiver. Ist ein Fall zu gruselig oder viel zu fesselnd, dann wird meiner Erfahrung nach das Einschlafen erschwert. Am Ende ist es egal, aber ich gebe gerne meinen Senf dazu.
+
+* L = Anzahl der lauten Stellen
+* ZL = Anzahl der zu leisen Stellen
+* M = Verwendung von Musik (1, 2 oder 3, wobei 3 das schlechteste ist)
+* S = Spannung des Hörspiels (1, 2 oder 3, wobei 3 das schlechteste ist)
+
+Außerdem werden noch Gewichtungen benötigt. Am wichtigsten sind die lauten Stellen, dann die Musik, anschließend die Spannung und zuletzt die zu leisen Stellen.
+
+Ich versuche es mal mit 4, 3, 2, 2. So ergibt sich dann eine Formel, die wie folgt aussieht:
+
+Bewertung = (Laut * 4) + (Musik * 3) + (Spannung * 2) + (Zu Leise * 2)
+
+Das Ganze kann dann in etwa so aussehen:
+
+| Merkmal          | Anzahl/Bewertung |
+|------------------|------------------|
+| Laute Stellen    | 10                |
+| Zu leise Stellen | 4               |
+| Musikeinsatz     | gut              |
+| Spannung         | gut              |
+
+Musikeinsatz und Spannung: [gut(1), mittel(2), schlecht(3)]
+
+Bewertung = (10 * 4) + (1 * 3) + (1 * 2) + (4 * 1)
+
+Bewertung = 53
+
+Mit der Zeit wird sich dann ein Wert ergeben, der eine Folge als gute Einschlafoption betitelt.
+
+Eine kleine Info vorweg noch: Ich höre mir die Folgen auf **Spotify** an. Sollte ich also auf Tracknummern oder Zeitangaben in Tracks verweisen, dann meine ich nicht die originalen Datenträger, sondern die in der Regel auf 40 Kapitel aufgeteilte Spotify-Version.
+
+---
+
+## Die Folge
+
+In der aktuellen Fassung auf Spotify gibt es vor dem Hörspiel einen Disclaimer bezüglich möglicher diskriminierender Darstellungen, die zur Zeit der Aufnahme in der Gesellschaft zu wenig in Frage gestellt worden sein könnten. Allerdings ist dieser in passender Lautstärke und in einem angenehmen Ton kein Fremdkörper direkt zu Beginn.
+
+Bei Minute 0:34 im zweiten Track wird spannende Musik eingespielt, die allerdings, genau wie die darauf folgende Entdeckung von Justus und Peter, nicht lauter als der Rest der Folge ist.
+
+Lauter hingegen wird es im vierten Track bei Minute 0:37, als die beiden Detektive mit dem Gasfeuerzeug hineingelegt werden. Hier gibt es also einen halben Punkt Abzug.
+
+In Track 13 ab Minute 0:31 wird es aufgrund eines logischen Fehlers lauter. Unser Freund Blacki krächzt in der Zentrale los, obwohl er ja noch überhaupt nicht in der Geschichte vorkam (Funfact: Mathilda wird in diesem Hörspiel auch Justus' Mutter und nicht Tante genannt). Das Krächzen wird uns noch sehr häufig begleiten. An dieser Stelle ist es tatsächlich lauter, aber definitiv noch in Ordnung: Halber Punkt Abzug.
+
+In der 19. und 44. Sekunde im 16. Teil klingelt das Telefon jeweils sehr laut. Glücklicherweise nur jeweils ein Mal. Das wird leider auch noch ein wiederkehrendes Element werden - die unglaublich lauten Telefonklingeltöne.
+
+Die erste zu leise Stelle ist in Track 18 bei Minute 1:10. Dort ist das Flüstern der Sprecherin so leise, dass man es, wenn man die Folge nicht bei normaler bis erhöhter Lautstärke hört, nur bröckchenweise verstehen kann.
+
+Weiter bei Teil 23.
+
+---
+
+### Bewertung
+
+| Merkmal          | Anzahl/Bewertung |
+|------------------|------------------|
+| Laute Stellen    | 10                |
+| Zu leise Stellen | 4               |
+| Musikeinsatz     | gut              |
+| Spannung         | gut              |
+
+Musikeinsatz und Spannung: [gut(1), mittel(2), schlecht(3)]
+
+Bewertung = (Laut * 4) + (Musik * 3) + (Spannung * 2) + (Zu Leise * 2)
+
+Bewertung = (10 * 4) + (1 * 3) + (1 * 2) + (4 * 1)
+
+<u>Bewertung = 53</u>

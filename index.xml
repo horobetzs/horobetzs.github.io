@@ -2,26 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Flo&#39;s Blog</title>
-    <link>https://horobetzs.github.io/</link>
+    <link>https://www.floriansblog.de/</link>
     <description>Recent content on Flo&#39;s Blog</description>
-    <image>
-      <title>Flo&#39;s Blog</title>
-      <url>https://horobetzs.github.io/papermod-cover.png</url>
-      <link>https://horobetzs.github.io/papermod-cover.png</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://horobetzs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>de</language><atom:link href="https://www.floriansblog.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wie blogt man eigentlich und Themen Ideen</title>
-      <link>https://horobetzs.github.io/posts/how-to-blog/</link>
-      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://www.floriansblog.de/datenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://horobetzs.github.io/posts/how-to-blog/</guid>
-      <description>Ich versuche mich an meinem ersten Blog-Post</description>
+      <guid>https://www.floriansblog.de/datenschutz/</guid>
+      <description>Datenschutzerklärung Stand: 16. November 2023
+Inhaltsübersicht Verantwortlicher Übersicht der Verarbeitungen Maßgebliche Rechtsgrundlagen Sicherheitsmaßnahmen Internationale Datentransfers Rechte der betroffenen Personen Einsatz von Cookies Bereitstellung des Onlineangebotes und Webhosting Verantwortlicher Florian Visang
+Roseneck 10
+48165 Münster
+E-Mail-Adresse: webmaster@floriansblog.de
+Übersicht der Verarbeitungen Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.
+Arten der verarbeiteten Daten Bestandsdaten. Standortdaten. Kontaktdaten. Inhaltsdaten. Nutzungsdaten. Meta-, Kommunikations- und Verfahrensdaten.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.floriansblog.de/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.floriansblog.de/impressum/</guid>
+      <description>Impressum Angaben gemäß § 5 TMG Florian Visang Roseneck 10 48165 Münster
+Kontakt Telefon: +49 1758249162 E-Mail: webmaster@floriansblog.de
+Quelle: https://www.e-recht24.de
+Plattform der EU-Kommission zur Online-Streitbeilegung: https://ec.europa.eu/consumers/odr
+Wir sind zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle weder verpflichtet noch bereit.
+Die Inhalte des Blogs sind, soweit nicht anders angegeben, mein Eigentum. Verwendete Bilder oder Videos, die nicht mir gehören, sind mit einer Quelle gekennzeichnet. Bilder oder Videos werden nicht kommerziell genutzt, sondern nur für meinen Blog verwendet.</description>
     </item>
     
     
+    <item>
+      <title>Die drei Schnarchnasen (001) - Die drei ??? und der Superpapagei (001)</title>
+      <link>https://www.floriansblog.de/posts/diedrei001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.floriansblog.de/posts/diedrei001/</guid>
+      <description>Die erste Folgenbewertung zum Einschlafen</description>
+    </item>
+    
+    
+    <item>
+      <title>Wie blogt man eigentlich und Themen Ideen</title>
+      <link>https://www.floriansblog.de/posts/how-to-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.floriansblog.de/posts/how-to-blog/</guid>
+      <description>Ich versuche mich an meinem ersten Blog-Post.</description>
+    </item>
     
   </channel>
 </rss>
